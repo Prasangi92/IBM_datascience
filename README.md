@@ -1,2 +1,2 @@
 # IBM_datascience
-Practice
+Practice of intro to git
